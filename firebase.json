@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "nakuyalink",
+    "public": ".",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
